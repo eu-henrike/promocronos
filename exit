@@ -1,0 +1,17 @@
+[33mcommit 433b9a2cbe1907d016e9c6d2e9f9bf22fd45e198[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: eu-henrike <dante7henrique@gmail.com>
+Date:   Tue Mar 10 17:01:51 2026 -0300
+
+    classname added to root div
+
+[33mcommit 0d81f51fb077e26453eb90b8503b50cb5c22539a[m
+Author: eu-henrike <dante7henrique@gmail.com>
+Date:   Tue Mar 10 16:59:21 2026 -0300
+
+    root div added
+
+[33mcommit 3f13a5256c477d9114114179e781967baaa6ce2c[m
+Author: eu-henrike <dante7henrique@gmail.com>
+Date:   Tue Mar 10 16:42:05 2026 -0300
+
+    scaffolding the project
